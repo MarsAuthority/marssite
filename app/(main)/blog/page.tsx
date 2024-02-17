@@ -6,7 +6,7 @@ import { Container } from '~/components/ui/Container'
 import { BlogPosts } from './BlogPosts'
 
 const description =
-  '写博客文章是我比较喜欢的沉淀分享方式，我希望能够把好用的技术知识传递给更多的人。我比较喜欢围绕着技术为主的话题，但是也会写一些非技术的话题，比如设计、创业、企业管理、生活随笔等等。'
+  '《礼记·学记》中有这样一段话「学然后知不足；教然后知困。知不足然后能自反也。知困然后能自强也；故曰教学相长也」。'
 export const metadata = {
   title: '我的博客',
   description,
