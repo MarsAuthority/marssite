@@ -1,12 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-import { BlogPosts } from '~/app/(main)/blog/BlogPosts'
-import { Headline } from '~/app/(main)/Headline'
-import { Newsletter } from '~/app/(main)/Newsletter'
-import { X } from '~/app/(main)/X'
-import { Resume } from '~/app/(main)/Resume'
-import { PencilSwooshIcon } from '~/assets'
-import { Container } from '~/components/ui/Container'
+import { BlogPosts } from '~/app/(main)/blog/BlogPosts';
+import { Headline } from '~/app/(main)/Headline';
+import { Resume } from '~/app/(main)/Resume';
+import { X } from '~/app/(main)/X';
+import { PencilSwooshIcon } from '~/assets';
+import { Container } from '~/components/ui/Container';
 
 export default function BlogHomePage() {
   return (

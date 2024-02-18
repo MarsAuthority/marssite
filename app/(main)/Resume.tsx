@@ -1,4 +1,4 @@
-import Image, { type StaticImageData } from 'next/image'
+import Image from 'next/image'
 import React from 'react'
 
 import { BriefcaseIcon } from '~/assets'
@@ -22,7 +22,7 @@ export function Resume() {
             </dl>
           </li>
           <li className="flex gap-4">
-            <Image src={image1} width="400" height="120" />
+            <Image src={image1} alt="cat" width="400" height="120" />
           </li>
       </ol>
     </div>
