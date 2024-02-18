@@ -39,7 +39,7 @@ export default function Layout({
                 src={`${emailConfig.baseUrl}/icon.png`}
                 width="24"
                 height="24"
-                alt="Cali"
+                alt="Mars"
                 className="mx-auto my-0"
               />
               <Text className="text-center">
@@ -54,7 +54,7 @@ export default function Layout({
               </Text>
               <Text className="text-center">
                 <Link
-                  href="https://"
+                  href="https://twitter.com/CyberBeeBee"
                   className="text-xs text-zinc-600 underline"
                 >
                   Twitter

@@ -77,7 +77,7 @@ export function Headline() {
         }}
       >
         <SocialLink
-          href="https://"
+          href="https://twitter.com/CyberBeeBee"
           aria-label="我的推特"
           platform="twitter"
         />

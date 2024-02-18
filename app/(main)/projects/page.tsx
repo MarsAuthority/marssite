@@ -5,7 +5,7 @@ import { Container } from '~/components/ui/Container'
 
 const title = '我的项目'
 const description =
-  '只是记录而已，欢迎学习交流。'
+  '只是记录而已，希望与大家学习交流。'
 export const metadata = {
   title,
   description,
